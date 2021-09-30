@@ -143,7 +143,8 @@ async def remove_username(new_List):
 
 async def addFooter(str):
     footer = """
-    =➖=➖=➖=➖=➖=➖=➖=
+
+=➖=➖=➖=➖=➖=➖=➖=
 🔗 @VideoHDonline 🆓""" 
     return str + footer
 
