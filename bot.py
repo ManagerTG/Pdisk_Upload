@@ -143,8 +143,8 @@ async def remove_username(new_List):
 
 async def addFooter(str):
     footer = """
-    print('\033[1m' + '=➖=➖=➖=➖=➖=➖=➖=
-🔗 @VideoHDonline 🆓' + '\033[0m')""" 
+    =➖=➖=➖=➖=➖=➖=➖=
+🔗 @VideoHDonline 🆓""" 
     return str + footer
 
 bot.run()
